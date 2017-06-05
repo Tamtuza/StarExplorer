@@ -6,4 +6,4 @@ __Controls:__	Clique na nave para atirar; arraste a nave para mover pra direita 
 
 __Sounds:__	Sons de tiro laser e explosões
 
-Jogo desenvolvido com [Corona] (https://coronalabs.com/)
+Jogo desenvolvido com [Corona](https://coronalabs.com/)
