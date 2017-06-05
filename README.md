@@ -1,7 +1,9 @@
-__Game Title:__ Star Explorer — a space shooter game.
+__Game Title:__ Star Explorer
 
-__Description:__ Maneuver your starship through an asteroid field, destroying asteroids as you progress.
+__Description:__ Movimente sua nave enquanto foge de asteróides e os destrói com tiros lasers.
 
-__Controls:__	Tap on the ship to fire; drag the ship to move left and right.
+__Controls:__	Clique na nave para atirar; arraste a nave para mover pra direita e pra esquerda.
 
-__Sounds:__	Shooting sound and explosion sound when the ship collides with an asteroid.
+__Sounds:__	Sons de tiro laser e explosões
+
+Jogo desenvolvido com [Corona] (https://coronalabs.com/)
